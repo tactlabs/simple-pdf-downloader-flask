@@ -1,2 +1,2 @@
-# simple-pdf-downloader-flask
-Simple PDF Downlaoder Flask
+# Simple PDF Downloader
+Simple PDF Downloader
